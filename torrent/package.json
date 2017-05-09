@@ -1,0 +1,26 @@
+{
+  "name": "torrent-usage-downloader",
+  "version": "1.0.0",
+  "description": "tool to download and store torrent usage's",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joseteodoro/DS-experiment.git"
+  },
+  "author": "josets",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/joseteodoro/DS-experiment/issues"
+  },
+  "homepage": "https://github.com/joseteodoro/DS-experiment#readme",
+  "dependencies": {
+    "express": "^4.15.2",
+    "node-couchdb": "^1.1.1"
+  },
+  "devDependencies": {
+    "mocha": "^3.3.0"
+  }
+}
